@@ -1,0 +1,7 @@
+# The built entry: main.ts writes it, it is never committed.
+out/
+out2/
+/output/
+
+node_modules/
+*.log
